@@ -4,14 +4,6 @@
 #     day -= 365
 
 
-# sentense = str(input("enter a sentence - "))
-# sentence_2 = str(input("enter a searching word - "))
-# while sentense == sentence_2:
-#     {
-#         print(sentence_2)
-#     }
-
-
 sentence = str(input("enterv a sentence - "))
 s = str(input("enterv a searching - "))
 if s in sentence:
