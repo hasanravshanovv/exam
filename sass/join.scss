@@ -72,6 +72,7 @@ body {
 .join {
   background: #fffefee9;
   flex-wrap: wrap;
+  padding-bottom: 110px;
 }
 .join_container {
 }
@@ -188,4 +189,13 @@ body {
     width: 100%;
     padding: 0 0 0 0;
   }
+}
+.footer {
+  text-align: center;
+}
+.footer_pass_page {
+}
+.footer_page {
+  font-weight: 400;
+  font-size: 29px;
 }

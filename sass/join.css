@@ -72,6 +72,7 @@ body {
 .join {
   background: rgba(255, 254, 254, 0.9137254902);
   flex-wrap: wrap;
+  padding-bottom: 110px;
 }
 
 .join_title {
@@ -190,6 +191,14 @@ body {
     width: 100%;
     padding: 0 0 0 0;
   }
+}
+.footer {
+  text-align: center;
+}
+
+.footer_page {
+  font-weight: 400;
+  font-size: 29px;
 }
 
 /*# sourceMappingURL=join.css.map */
